@@ -18,9 +18,9 @@ Bisher gelernt:
 - Absätze im Fließtext erstellen `<p>`
 - sortierte `<ol>` und unsortierte `<ul>`Listen erstellen
     - Listen Elemente hinzufügen `<li>`
-- externe Hyperlinks einfügen mit einem Anker Tag >´<a href="protocoll://domain/path">´
-- interne (auf der gleichen Seite) Hyperlinks einfügen mit einem Anker Tag ´<a href = "./folder/file"´
-- bilder auf einer Seite einbetten mit >´<img src ="./folder/file" alt="text">´ (gleiche Ordnerebene), >´<img src ="../folder/file" alt="text">´ (eine Ordnerebene oben)
+- externe Hyperlinks einfügen mit einem Anker Tag `<a href="protocoll://domain/path">`
+- interne (auf der gleichen Seite) Hyperlinks einfügen mit einem Anker Tag `<a href = "./folder/file"`
+- bilder auf einer Seite einbetten mit `<img src ="./folder/file" alt="text">` (gleiche Ordnerebene), `<img src ="../folder/file" alt="text">` (eine Ordnerebene oben)
 
 Übungsdateien aus The Odin Projekt werden als separate Seite angelegt 
 Bisher als Übung umgesetzt:
