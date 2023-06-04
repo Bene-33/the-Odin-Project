@@ -19,8 +19,9 @@
 #ssh key anzeigen  
     cat ~/.ssh/id_ed25519.pub
 # dann ssh Key in Github Einstellungen kopieren 
-#Verbindung auf Maschine verifizieren; [offizielle Github Seite zum verifizieren] (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection)
+#Verbindung auf Maschine verifizieren
     $ ssh -T git@github.com
+    Fingerprint verifizieren [mit der offizielle Github Seite](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection) 
 #Commands related to a remote repository:
 # Bei der URL darauf achten, ob SSH,HTTPS,CLI ausgewählt ist
     git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
