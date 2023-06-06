@@ -14,7 +14,7 @@ Bisher gelernt:
 - Kommentare im Code erstellen `<!--Kommentar-->`
 - Einen Titel für eine Homepage erstellen `<head> <titel>`
 - Titel im Aufbau der Homepage erstellen `h1`
-- Text **fett** mit ´<strong>´ oder `<b>`; *kursiv* mit `<em>`oder `<o>`schreiben
+- Text **fett** mit ´<strong>´ oder `<b>`; *kursiv* mit `<em>`oder `<i>`schreiben
 - Absätze im Fließtext erstellen `<p>`
 - sortierte `<ol>` und unsortierte `<ul>`Listen erstellen
     - Listen Elemente hinzufügen `<li>`
